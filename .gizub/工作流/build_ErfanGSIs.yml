@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://221.204.57.3/bigota.d.miui.com/V11.0.4.0.ODACNXM/miui_HM5_V11.0.4.0.ODACNXM_010a5305c2_8.1.zip?ksy_gslb_referer=http%3A%2F%2Fwww.miui.com%2Fdownload-339.html
+  ROM_URL: http://bigota.d.miui.com/V11.0.3.0.PEDCNXM/miui_MIMAX3_V11.0.3.0.PEDCNXM_457d3fe0a7_9.0.zip
   ROM_NAME: MIUI 
   TZ: Asia/Shanghai
 
